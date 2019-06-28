@@ -11,4 +11,4 @@
       3. Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
       4. Indentation and spacing of HTML and CSS is accurate.
       5. Commits are made regularly with clear messages that finish the phrase "It will…"
- **Link to project**:[MyPortfolio](https://github.com/MUVALA1/using-bootstrap)
+ **Link to project**:[MyPortfolio](https://github.com/MUVALA1/using-bootstrap/tree/bootstrap-redisgn)
